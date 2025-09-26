@@ -91,4 +91,8 @@ The dataset contains demographic, work-related, and health information for emplo
 - Explore relationships between **Mental Health Status and Physical Health Issues**  
 - Statistical tests and advanced visualizations for more robust insights  
 
+## 📌 Note on Visualizations
 
+Some charts in this notebook are **interactive Plotly visualizations**.  
+To see the charts properly, **make sure to run all cells** in the notebook after opening it.  
+Otherwise, the outputs may not appear
